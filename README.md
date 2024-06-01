@@ -16,7 +16,7 @@ Enfin, nous avons intégré notre modèle dans une interface interactive créée
 
 fichier :
 1) code nettoyage et machine learning : https://github.com/data-will/hackathon_school/blob/main/Code_hackathon_school.ipynb
-2) visualisation sur streamlit :
+2) visualisation sur streamlit (ayant seulement 6h de temps, le visuel streamlit est simple et basic) : https://github.com/data-will/hackathon_school/blob/main/visuel_hackathon_school.png
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
