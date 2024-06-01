@@ -14,6 +14,10 @@ Pour le cœur de notre application, nous avons opté pour un modèle de machine 
 4) Présentation avec Streamlit.
 Enfin, nous avons intégré notre modèle dans une interface interactive créée avec Streamlit. Cette interface permet à l'utilisateur de saisir ses caractéristiques sportives et de voir en temps réel les recommandations de sports générées par notre modèle.
 
+fichier :
+1) code nettoyage et machine learning : https://github.com/data-will/hackathon_school/blob/main/Code_hackathon_school.ipynb
+2) visualisation sur streamlit :
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
